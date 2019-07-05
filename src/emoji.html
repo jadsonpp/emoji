@@ -31,24 +31,36 @@
                     case 'mySmile1':
                         ctx.arc(100,100,80,0,Math.PI);
                         ctx.moveTo(180,100);
+                        ctx.stroke();
+                        sleep(500).then(() => {
+                             emote('mySmile2');
+                        })
                         break;
+
                     case 'mySmile2':
                         ctx.arc(100,100,80,0,Math.PI);
                         ctx.moveTo(180,100);
                         ctx.ellipse(100,100,80,40,0,0,Math.PI);
+                        ctx.stroke();
+                        //Limpa o Canvas
+                        ctx.clearRect(0, 0, canvas.width, canvas.height);
+                        emote('');
                         break;
+
                     default:
                         ctx.ellipse(100,100,80,40,0,0,Math.PI);
+                        ctx.stroke();
+                        sleep(500).then(() => {
+                             emote('mySmile1');
+                        })
                         break;
                 }
-                ctx.stroke();
+
         }
 
 
         emote('');
-        sleep(500).then(() => {
-          emote('mySmile2');
-        })
+
 
 
 

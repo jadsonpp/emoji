@@ -10,9 +10,9 @@ O Trabalho consiste em utilizar curvas paramétricas, coordenadas polares ou sup
 ## Referências
 Função Sleep no JS.<br>
 https://flaviocopes.com/javascript-sleep/<br>
-(Visto em: 05/07/2019)
-<br>
-Pure CSS Smily Face - Css3 Hover Effect - Html5 Css3 Tutorials For Beginners - Css Animated Shape <br>
+(Visto em: 05/07/2019)<br>
+
+<br>Pure CSS Smily Face - Css3 Hover Effect - Html5 Css3 Tutorials For Beginners - Css Animated Shape <br>
 https://www.youtube.com/watch?v=-SSHNZIFeKs<br>
 (Visto em: 05/07/2019)<br>
 
