@@ -5,7 +5,7 @@ O Trabalho consiste em utilizar curvas paramétricas, coordenadas polares ou sup
 <br>
 ## Teoria
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjem7yLzJ7jAhUbDrkGHSJRDAkQjRx6BAgBEAU&url=https%3A%2F%2Fdevcode.la%2Ftutoriales%2Fanimacion-con-canvas-de-html5%2F&psig=AOvVaw3fCDebZq9hjdyYSIFGDvjs&ust=1562442059831216)
+![alt text](https://github.com/jadsonpp/emoji/blob/master/canvas%20vs%20cartesiano.png?raw=true)
 
 ## Referências
 Função Sleep no JS.<br>
