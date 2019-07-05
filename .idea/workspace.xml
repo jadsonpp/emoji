@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79825226-f5f1-4607-baf1-518cd037fa0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/emoji.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/emoji.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/emoji.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+            <state relative-caret-position="220">
+              <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -26,19 +26,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="7" column="242" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="242" />
+              <first_editor relative-caret-position="300">
+                <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -227,13 +218,6 @@
     <entry file="file://$PROJECT_DIR$/src/emoji.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/as.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -241,11 +225,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="7" column="242" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="242" />
+          <first_editor relative-caret-position="300">
+            <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
@@ -253,8 +244,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/emoji.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        <state relative-caret-position="220">
+          <caret line="63" column="24" lean-forward="true" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
         </state>
       </provider>
     </entry>
