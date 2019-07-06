@@ -1,11 +1,20 @@
+# Trabalho de Cálculo 2 - Construção de um emoji com movimento
+
+## Autor: Jadson Pereira
+
+### Ambiente:
+- Linguagem de programação: JavaScript
+- [Visual Studio Code](https://code.visualstudio.com/)
+- Windows 10
+
 ## Emoji
-O objetivo do trabalho será relacionar os assuntos ligados a Cálculo Diferencial e Integral com a programação verificando que curvas paramétricas e coordenadas polares podem ser implementadas para gráficos de curvas não usuais e com movimentos. 
+O objetivo do trabalho é relacionar os assuntos ligados à <b>Cálculo Diferencial</b> e <b>Integral</b> com programação, verificando que curvas paramétricas e coordenadas polares podem ser implementadas para gráficos de curvas não usuais e com movimentos.
 <br>
-O Trabalho consiste em utilizar curvas paramétricas, coordenadas polares ou superfícies cônicas , ou ambas para obter a Construção de um emoji com movimento; 
-<br>
+O Trabalho consiste em utilizar <b>curvas paramétricas</b>, <b>coordenadas polares</b> ou <b>superfícies cônicas</b>, ou ambas para obter a Construção de um emoji com movimento.
+
 ## Teoria
 
-![alt text](https://github.com/jadsonpp/emoji/blob/master/canvas%20vs%20cartesiano.png?raw=true)
+![canvas_vs_cartesiano](canvas_vs_cartesiano.png)
 
 ## Referências
 Função Sleep no JS.<br>
