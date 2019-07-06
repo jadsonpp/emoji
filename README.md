@@ -4,15 +4,16 @@
 
 ### Ambiente:
 - Linguagem de programação: JavaScript
+- HTML, CSS
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Windows 10
 
-## Emoji
+## Objetivo
 O objetivo do trabalho é relacionar os assuntos ligados à <b>Cálculo Diferencial</b> e <b>Integral</b> com programação, verificando que curvas paramétricas e coordenadas polares podem ser implementadas para gráficos de curvas não usuais e com movimentos.
 <br>
 O Trabalho consiste em utilizar <b>curvas paramétricas</b>, <b>coordenadas polares</b> ou <b>superfícies cônicas</b>, ou ambas para obter a Construção de um emoji com movimento.
 
-## Teoria
+## Implementação
 
 ![canvas_vs_cartesiano](canvas_vs_cartesiano.png)
 
@@ -36,3 +37,5 @@ https://www.w3schools.com/tags/canvas_arc.asp<br>
 w3Schol Ellipse<br>
 https://www.w3schools.com/graphics/svg_ellipse.asp<br>
 (Visto em: 05/07/2019)<br>
+
+STEWART, J. Cálculo. Vol. 2. 7a ed. São Paulo: Cengage Learning, 2009. <br>
