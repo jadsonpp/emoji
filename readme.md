@@ -72,6 +72,6 @@ Formula retirada de: [Cardioides](https://pt.wikipedia.org/wiki/Cardioide)
 
 - STEWART, J. Cálculo. Vol. 2. 7a ed. São Paulo: Cengage Learning, 2009.
 - W3Schools https://www.w3schools.com/graphics/svg_intro.asp acessado em 05 de julho de 2019
--Espiral de Arquimendes: https://pt.wikipedia.org/wiki/Espiral_de_Arquimedes acessado em 08 de julho de 2019.
--Cardioide: https://pt.wikipedia.org/wiki/Cardioide acessado em 08 de julho de 2019.
+- Espiral de Arquimendes: https://pt.wikipedia.org/wiki/Espiral_de_Arquimedes acessado em 08 de julho de 2019.
+- Cardioide: https://pt.wikipedia.org/wiki/Cardioide acessado em 08 de julho de 2019.
 - Coordenadas Polares: https://pt.wikipedia.org/wiki/Coordenadas_polares acessado em 08 de julho de 2019.
