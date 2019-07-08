@@ -25,11 +25,11 @@ a espiral de arquimedes para representar o olho, gráfico do seno e do cosseno p
 
 ## Teoria
 As coordenadas polares são um sistema de coordenadas bidimensional, onde cada ponto em uma coordenada polar é representado por um ângulo e 
-por uma distância. <br>"O ponto de referência (análogo a origem no sistema cartesiano) é chamado de polo, e a semirreta do polo na direção
- de referência é o eixo polar. A distância a partir do polo é chamada coordenada radial ou raio, e o ângulo é chamado coordenada angular, ângulo polar ou azimute"[wikipedia]
+por uma distância. <br> *"O ponto de referência (análogo a origem no sistema cartesiano) é chamado de polo, e a semirreta do polo na direção
+ de referência é o eixo polar. A distância a partir do polo é chamada coordenada radial ou raio, e o ângulo é chamado coordenada angular, ângulo polar ou azimute"*[wikipedia]
 ### Espiral de Arquimedes
-A espiral de arquimedes: "Se define como o lugar geométrico de um ponto movendo-se a velocidade constante sobre uma reta que gira 
-sobre um ponto de origem fixo a velocidade angular constante"[wikipedia] <br>
+A espiral de arquimedes: *"Se define como o lugar geométrico de um ponto movendo-se a velocidade constante sobre uma reta que gira 
+sobre um ponto de origem fixo a velocidade angular constante"* [wikipedia] <br>
 Em coordenadas polares, a espiral de arquimedes é representada por : <br>
 ![formulaEspiral](/imagens/formula_espiral.PNG),onde a e b são numeros reais.    
 <br>
