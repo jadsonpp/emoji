@@ -29,12 +29,7 @@ por uma distância. <br> *"O ponto de referência (análogo a origem no sistema 
  de referência é o eixo polar. A distância a partir do polo é chamada coordenada radial ou raio, e o ângulo é chamado coordenada angular, ângulo polar ou azimute"*[Coordenadas Polares](https://pt.wikipedia.org/wiki/Coordenadas_polares)
 ### Espiral de Arquimedes
 A espiral de arquimedes: *"Se define como o lugar geométrico de um ponto movendo-se a velocidade constante sobre uma reta que gira 
-sobre um ponto de origem fixo a velocidade angular constante"* [Espiral de Arquimedes](https://pt.wikipedia.org/wiki/Espiral_de_Arquimedes) <br>
-Em coordenadas polares, a espiral de arquimedes é representada por : <br>
-![formulaEspiral](/imagens/formula_espiral.PNG),onde a e b são numeros reais.    
-<br>
-Formula retirada de: [Espiral de Arquimedes](https://pt.wikipedia.org/wiki/Espiral_de_Arquimedes)
-
+sobre um ponto de origem fixo a velocidade angular constante"* [Espiral de Arquimedes](https://pt.wikipedia.org/wiki/Espiral_de_Arquimedes) <br>   
 
 ### Cardioide
 O cardioide é uma curva em forma de coração, representado em coordenadas polares com a equação:<br>
