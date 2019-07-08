@@ -31,16 +31,14 @@ por uma distância. <br>"O ponto de referência (análogo a origem no sistema ca
 A espiral de arquimedes: "Se define como o lugar geométrico de um ponto movendo-se a velocidade constante sobre uma reta que gira 
 sobre um ponto de origem fixo a velocidade angular constante"[wikipedia] <br>
 Em coordenadas polares, a espiral de arquimedes é representada por : <br>
-![formulaEspiral](/imagens/formula_espiral.png)<br>
+![formulaEspiral](/imagens/formula_espiral.PNG)<br>
 onde a e b são numeros reais.    
-<br>
-![espiral](/imagens/arquimedes_espiral.png)
+
 
 ### Cardioide
 O cardioide é uma curva em forma de coração, representado em coordenadas polares com a equação:<br>
-![formulaCardioide](/imagens/formula_cardioide.png)
-<br>Gráfico: <br>
-![cardioides](/imagens/cardioides.png)
+![formulaCardioide](/imagens/formula_cordioide.PNG)
+
  
   
 ## Curvas usadas
