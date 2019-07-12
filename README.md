@@ -13,9 +13,7 @@ O objetivo do trabalho é relacionar os assuntos ligados à <b>Cálculo Diferenc
 <br>
 O Trabalho consiste em utilizar <b>curvas paramétricas</b>, <b>coordenadas polares</b> ou <b>superfícies cônicas</b>, ou ambas para obter a Construção de um emoji com movimento.
 
-## Implementação
 
-![canvas_vs_cartesiano](canvas_vs_cartesiano.png)
 
 ## Referências
 Função Sleep no JS.<br>
