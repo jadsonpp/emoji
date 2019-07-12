@@ -1,6 +1,6 @@
 # Trabalho de Cálculo 2 - Construção de um emoji com movimento
 
-## Autor: Jadson Pereira
+
 
 ### Ambiente:
 - Linguagem de programação: JavaScript
